@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/luraproject/lura/v2/config"
+	"github.com/davron112/lura/v2/config"
 )
 
 func TestClient(t *testing.T) {
