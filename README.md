@@ -1,6 +1,6 @@
 # KrakenD oauth2 client credentials
 
-A http client for the [KrakenD](https://github.com/devopsfaith/krakend) framework supporting the oauth2 client credentials workflow.
+A http client for the [KrakenD](https://github.com/davron112/krakend) framework supporting the oauth2 client credentials workflow.
 
 ## How to use it?
 
